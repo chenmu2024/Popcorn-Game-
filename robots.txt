@@ -1,0 +1,6 @@
+# Allow all ethical crawlers full access
+User-agent: *
+Disallow:
+
+# Specify the location of the XML sitemap
+Sitemap: https://popcorngame.pro/sitemap.xml
