@@ -63,13 +63,13 @@ A modern, premium collection of popcorn-themed games designed for the US and Eur
    ```
    python -m http.server
    ```
-   Then visit http://localhost:8000 in your browser
+   Then visit [Popcorn Game](https://popcorngame.pro/) in your browser
 
    Or using Node.js http-server:
    ```
    npx http-server
    ```
-   Then visit http://localhost:8080 in your browser
+   Then visit [Popcorn Game](https://popcorngame.pro/) in your browser
 
 3. Adding games:
    - Create new HTML files in the `games/` directory
